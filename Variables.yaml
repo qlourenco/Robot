@@ -1,0 +1,5 @@
+PATH2CHROME : C:\Programmes\Google\Chrome\Application\chrome.exe
+WORKSPACE : C:\Robot\run\workspace
+
+URL : https://thinking-tester-contact-list.herokuapp.com/
+WEB_BASE_URL : https://thinking-tester-contact-list.herokuapp.com/
